@@ -1,0 +1,388 @@
+								
+							  ~~~~~~ THERMODYNAMICS ~~~~~
+
+definition:
+	The branch of science that deals with conversion, transformation, management, of different forms of energies especially heat and work
+	
+primitive concept:-- 
+	A concept or term taken from another branch of science in thermodynamics, Eg volume, pressure, velocity, force, mass etc
+
+non-primitive concept:-- 
+	A concept or term that is fully originated and defined in thermodynamics , only 2:-- TEMPERATURE and ENTROPY
+
+premise:-- 
+	A concept or a term that cannot be proved but only be validated through observation and experimentation, we assume them to be true
+	universally (postulates, axioms), {HEAT and WORK}
+	
+operational definitions:--
+	Procedure or Sequence of operations or Set of rules to be followed to define an entity and how to measure it is called an operational
+	definition.
+
+
+Thermodynamic System:-
+	A specific volume of space (universe) with well defined boundaries, which is under consideration for the study of thermodynamics 
+	(something that is of our interest and is our reference point)
+	
+	- isolated
+		boundary facilitates neither mass nor energy interactions
+		
+	- closed
+		boundary facilitates energy interaction but not mass interaction 
+		
+	- open 
+		boundary facilitates both mass and energy interactions
+	
+	--> being isolated/ close/ open, these are the 'properties' of the system undergoing a process
+	
+	- simple
+		Number of two way mode of work in system = 1
+		
+	- complex
+		Number of two way mode of work in system > 1
+		
+	- rudimentary
+		Number of two way mode of work in system = 0
+		
+	
+Thermodynamic Boundary:-
+	A surface that separates the (system and surrounding) or (system and system), and facilitates thermodynamic interactions through it,is
+	called thermodynamic boundary, The energy transfer takes place through boundaries only
+	
+	- real (you can touch,show) / imaginary
+	- fixed / movable
+	- well defined but non-physical
+	
+	
+	
+Thermodynamic Surrounding:-
+	Anything and everything outside the system, which gets influenced by the changes that take place in the system is called surrounding
+	
+
+
+Thermodynamic Universe:-
+	The combination of all systems, boundaries, surroundings is called universe
+
+
+
+
+Thermodynamic State:-
+	The specific situation in which the system exists at the specific time,which is well defined by finite thermodynamic properties is called 		
+	thermodynamic state
+	
+	- operational definition
+	1. make list of all relevant characteristics
+	2. scratch irrelevant characteristics
+	3. quantify each relevant characteristics (typically by measurement)
+	
+ 	- equilibrium / non-equilibrium
+
+
+Point of view:-
+	Microscopic / Macroscopic (we learn macroscopic thermodynamics known as 'classical approach')
+	1. System is assumed to be continuous or 'continuum'
+	2. no quantum effects
+	3. scale independent
+	4. less variable count
+	5. ease of handling
+	
+	--> In this approach or point of view, Laws are derived by generalizing our understanding of natural phenomenon. 
+	    Therefore, it is also known as Phenomenological Thermodynamics.
+
+
+Thermodynamic property:-
+	A relevant characteristic used to describe the state of a thermodynamic system, is known as thermodynamic property.
+	
+	- primitive --> adopted from other branches of science
+	- non-primitive/basic --> originated and defined in thermodynamics only 2 temperature and entropy
+	- derived --> combination of primitive and non-primitive
+	- intensive --> any property {primitive/basic} that is independent of the mass of the system, Eg temperature, pressure etc
+	- extensive --> any property {primitive/basic} that is dependent on the mass of the system, Eg volume, enthalpy, entropy etc
+	- specific --> any property {primitive/basic} per unit mass {divide the property by mass of system}, all specific properties are intensive
+
+
+Thermodynamic state space:-
+	The graphical (Cartesian co-ordinate) representation of thermodynamic state of the system with, each property on one axis respectively, 
+	is called as thermodynamic state space (TSS)
+	
+	1. a thermodynamic state is a 'point' on the co-ordinate system (TSS)
+	2. a point on TSS represents a state of system at a specific time
+	3. in TSS each axis represents one relevant characteristics (TSS can be 'n' dimensional, with 'n' relevant characteristics)
+	4. a unique point on TSS is a thermodynamically equilibrium state (ie they are 'representable' on TSS, has unique set of values)
+	5. we can only draw a point on TSS if its in equilibrium, other wise not.
+	6. a non representable point on TSS is a thermodynamically non-equilibrium state (ie they are 'non representable' on TSS, cloudy)
+	
+	
+Thermodynamic equilibrium:-
+	When a system is in mechanical, chemical and thermal equilibrium it is said to be in thermodynamic equilibrium
+	
+
+State postulate 1 :-
+	Number of properties required to uniquely define a state of the system {how would we know ?} 
+	- (it is possible to define a state of system uniquely only using primitive and/or non-primitive)
+
+
+Thermodynamic process:-
+	The change of state is called process
+	
+	--> to define process, we must know system / initial state of the system / final state of the system
+	--> as we 'know' initial and final states, they are well defined {in equilibrium} and therefore we can draw them on TSS as a point 
+
+	- quasi-static
+		1. when intermediate states between initial and final state are also in equilibrium, it is called quasi-static process
+		2. we can join initial and final states with continuous line/locus as each state is well defined {is in equilibrium}
+		
+	- non-quasi-static
+		1. when intermediate states between initial and final state are not in equilibrium, it is called as non-quasi-static process
+		2. we can not join initial and final states with continuous line/locus as each state is not well defined {is in non-equilibrium}
+		
+	- reversible
+		- a process in which the system and surroundings can be returned to the original conditions from the final state without producing
+		  any changes in the thermodynamics properties of the universe
+		
+	- irreversible
+		- a process which is not reversible
+		
+	- isothermal
+		- a process in which temperature remains constant
+		
+	- isochoric
+		- a process in which volume remains constant
+		
+	- isobaric
+		- a process in which pressure remains constant
+		
+	- isentropic
+		- a process in which entropy remains constant
+		
+	- adiabatic
+		- a process in which heat remains constant
+		- a process with pure work interaction {heat interaction is zero}
+		
+	- polytropic
+		- a process where nothing remains constant (temperature, pressure, volume, entropy) , chaotic.
+
+
+Thermodynamic Cycle :-
+	If in a process, the initial and final states are coincident point on TSS (ie they are equal), the such processes are called cycle.
+	
+	- quasi-static
+	- non-quasi-static
+	- reversible 
+	- irreversible
+	- ideal
+	- real
+	- power generating
+	- power consuming
+	- carnot / otto / diesel / dual combustion
+	- rankine / sterling / atkinson
+	- vapor compression / vapor absorption
+	
+	
+	
+Thermodynamic interactions :-
+	Energy {only HEAT and WORK} in transition (flow) between 2 or more systems {one system can be surrounding to other system}
+	
+	- interaction causes the change of state (lies at heart of thermodynamics)
+	
+	- work interaction (pure work)
+		1. it is primitive
+		2. useful to classify the systems
+		3. accepts the possibility of existence of impure work (heat {non-work} or heat + work)
+		
+		--> general form of the work -->  dW = +- XdY   {mechanical, electrical, chemical, thermal}
+		
+		i. ( X --> property and Y --> property )  --> Two way mode of work (work can take place in both the direction)
+			If both X and Y are properties the X is compulsory Intensive and Y is compulsory Extensive property
+			
+		ii. any one is not a property then --> One way mode of work (work can take place in only one direction)
+		
+		- modes of work is general characteristics of all the work interactions
+		
+	----> WORK INTERACTION HAS 'SIGN CONVENTION' :
+		--> work done by the system is positive (+)
+		--> work done on the system is negative (-)
+		--> the sign decides the 'direction' of the work with respect to 'system'
+		
+	----> Operational definition of work :-)
+		
+		*( we have interaction 'I' from system A to system B ) [ A --(I)--> B ]
+		
+		1. Try to setup system C (by replacing system B), such that all it does while executing in the cycle, that it raises a mass 'm'
+		   through a height of 'h' in gravitational field 'g' , and doesn't do anything else.
+		   if system C can be setup, the 'I' is the work interaction (pure), and work is done from A to B(C) [A --(I)--> B]
+		   work(A-->B) = +mgh (quantification)
+		   work(B-->A) = -work(A-->B) = -mgh 
+		
+		2. If in step 1, system C could not be tested up by replacing the system B, then now try replacing the system A in step 2
+		   if system C can be setup, the 'I' is the work interaction (pure), and work is done from B to A(C) [B --(I)--> A]
+		   work(B-->A) = +mgh (quantification)
+		   work(A-->B) = -work(B-->A) = -mgh  
+		
+		3. If we cannot setup a system C either by replacing system A or system B, then interaction 'I' is not pure work.
+		   - it can be pure heat (non-work)
+		   - it can be (heat + work)
+		   
+		
+	----> conclusion:-
+		1. Two (or more) systems must be involved in the interaction
+		2. Work(A-->B) = -Work(B-->A) , they are 100% equal in 'magnitude'
+		3. work doesn't happens 'on its own', some conscious efforts are needed for thermodynamic work to happen
+		4. There must be a 'recipient' system or arrangement to receive the work (free expansion means no work)
+		5. eg. free fall of projectile:
+			a. in mechanics, work = mgh, PE = exist, KE = exist
+			b. in thermodynamics, work = 0, PE = exist, KE = exist, because there is no recipient system. 
+		
+		
+	----> Evaluation of Work:-
+		1. A system can involve different types of work simultaneously
+		2. To find total work we SUM all the works from all different modes
+			- this statement give rise to this differential equation:
+				dW = dW(expand) + dW(electric) + dW(stirring) + dW(magnetic) + dW(electromagnetic) + .....   ----Over the process;
+			
+			- the integration of above equation is possible for QUASI-STATIC process only
+			
+	----> Significance of two way mode of work:-
+		- a system may have 'N' possible modes of work
+		- let 'N2w'be number of two way mode of work in a system
+		
+		then if N2w = 1 : system is called Simple system (gas in piston cylinder arrangement)
+			N2w > 1 : system is called Complex system (bubble, water droplet)
+			N2w = 0 : system is called Rudimentary system (thermometer)
+		
+		--> simple and complex systems can be constrained to become rudimentary system	
+				
+		
+
+
+						      ~~~~~ LAWS OF THERMODYNAMICS ~~~~~
+						 
+	
+	
+Some understanding:-	
+	- these are laws of nature
+	- these laws demonstrate the universal truth
+	- there are no proofs and no derivations for these laws, we believe in them, as there are no evidence of violation or contradiction
+	- these laws are restricted to Classical {Macro} thermodynamics only and are NOT applicable to Statistical {Micro} thermodynamics
+
+
+2 Approaches to laws of thermodynamics:-
+	
+	1. Keenan's approach
+		- he proposed "Law of stable equilibrium". {its a premise}	
+		- statement-> "Any Thermodynamic System, completely isolated from its surrounding tends to be in a Thermodynamic equilibrium state"
+		- attempt to merge all laws of thermodynamics into 1 law
+	
+	2. Caratheodory's approach
+		- statement -> "Our understanding of behavior of nature"
+		- according to him
+			- 1st law : "our understanding of behavior of ADIABATIC system"
+			- 0th law : "our understanding of behavior of NON-ADIABATIC system"
+			- 2nd law : "our understanding of behavior of ENGINES" {w.r.t mechanical engineering}
+	
+	
+	
+adiabatic:-
+	- work transfer only
+	- a adjective that transformers the system, boundary and a process in a such a way that :
+		system : a system constrained in such a way that only work transfer is allowed
+		boundary : facilitates work interaction only
+		process : a process in which only work interaction is possible
+		
+
+Joules law:-
+	- work done in an adiabatic process from initial state 1 to final state 2 is INDEPENDENT from any path taken to reach the final state and
+	  any other details of the process.
+	- thus knowing the system, state 1, state 2, and process is adiabatic 1 --> 2 is enough {no other details are required}
+	 
+	- work{adiabatic} is a point function	
+	
+	
+	
+point function:-
+	1. depends on start and end state only {path has no meaning}
+	2. knowing system , start point, end point only is necesarry
+	3. it is an exact diffrential so integration is possible
+	4. it is either primitive / basic property (eg P, V, T, S etc)
+	5. cyclic integration of point function is always ZERO (= 0)
+	
+
+path function:-
+	1. it depends on start , end points as well as path taken {path is meaningful}
+	2. knowing system , start point, end point and path taken is necesarry
+	3. it is an in-exact differential so integration is not possible
+	4. it is neither primitive nor basic , it is a definition (heat and work)
+	5. cyclic integration of path function is non-zero (!= 0)
+	
+	
+	---> Wad (work{adiabatic}) has no absolute value
+	---> Wad(1 --> 2) has a unique value
+		- ie Wad has a unique value only over a process , it always requires a reference
+		
+	
+
+Thermodyanamic energy (E) :-
+	- it is 'defined' as, negative of the adiabatic work done
+	--> E2 - E1 = - (W{ad} 1 --> 2)
+	- neagtive sign is for maintaining the consistency in sign convention system w.r.t 'thermodynamic system'
+		- eg of 'working on trade-mill'
+		- if system does work (work is positive),but its energy 'goes down',so change in energy is negative because (E2 < E1, (E2-E1) < 0)
+		  and according to formula, -(+ quantitiy) = -(quantity), therfore its consistence 
+		- if work is done on the system (work is negative),but its energy 'goes up', so change in energy is positive 
+		  because (E2 > E1, (E2 - E1) > 0) and according to formula, -(- quantitiy) = +(quantity), therfore its consistence 
+	
+	
+Heat (Q):-
+	--> heat = general work - adiabatic work ( Q{1-->2} = W{1-->2} - W{ad}{1-->2})
+	- how did we arrived here ?
+		- lets take a system, start point 1 and end point 2
+		- lets take 2 paths {no detail given}, first is adibatic and second is general {no detail given, may or may not be adiabatic}
+		- then we definitly know that, work done in above 2 process is not equal
+		- so if works's are not equal then there should be some difference {positive / negative / zero dont care}
+		- and 'this difference' is defined as 'change in heat' in process 1 to 2.
+		
+		
+		
+first law of thermodynamics (1st law):-
+	--> Q{1-->2} = W{1-->2} + E{1-->2}           ... [ heat = work + energy ---> over process 1 to 2]
+		- based on,
+			--> Q{1-->2} = W{1-->2} - W{ab}{1-->2} ...(by defination of heat)
+			--> E{1-->2} = - W{ab}{1-->2}	...(by defination of energy)
+			
+	--> Q and W are path function { not the property of the system }
+	--> E is point function { property of the system } (its 0 when it is a cyclic process)
+
+
+State postulate 2:-
+	-- if we have a system of fixed mass, then number of independent intensive variables required to define uniquely the state of the system is
+	    = N2w + 1 { N2w is number of 2 way mode of work in the system } { all N2w+1 are intensive }
+	    
+	   -- simple system : 2 (1 + 1) intensive properties are sufficient to define the system uniquely.
+	   -- complwx system : more than 2 (> 1 + 1) intensive properties are required to define the system uniquely.
+	   -- rudimentary system : 1 (0 + 1) intensive properties is sufficient to define the system uniquely. 
+	
+	
+			
+limitations of 1st law:-
+	
+	1. 1st Law doesn’t answer that, “Is it ALWAYS possible to take a system from its state 1 to state 2 by an adiabatic process ONLY”.
+	2. 1st Law doesn’t talk about the details of non-work interactions. It only accepts the possibility of non-work interactions.
+	3. 1st Law tells us only about the Quantity and doesn’t talk about the Quality.
+	4. 1st Law doesn’t dictate the direction of interaction, it only tells us that system undergoes some interaction.
+	5. 1st Law fails to tell us about the feasibility of the interaction or the limiting range of feasible interaction
+	
+	
+	
+	
+	
+	
+zeroth law (0th law):-
+
+	
+	
+	
+	
+	
+
+
+ 
+
